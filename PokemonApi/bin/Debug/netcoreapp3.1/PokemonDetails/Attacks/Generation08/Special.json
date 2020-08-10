@@ -1,0 +1,1628 @@
+{
+    "attacks": [
+        {
+            "name": "10,000,000 Volt Thunderbolt",
+            "type": "electric",
+            "category": "special",
+            "power": 195,
+            "accuracy": 101,
+            "powerpoints": 1
+        },
+        {
+            "name": "Absorb",
+            "type": "grass",
+            "category": "special",
+            "power": 20,
+            "accuracy": 100,
+            "powerpoints": 25
+        },
+        {
+            "name": "Acid",
+            "type": "poison",
+            "category": "special",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Acid Spray",
+            "type": "poison",
+            "category": "special",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Aeroblast",
+            "type": "flying",
+            "category": "special",
+            "power": 100,
+            "accuracy": 95,
+            "powerpoints": 5
+        },
+        {
+            "name": "Air Cutter",
+            "type": "flying",
+            "category": "special",
+            "power": 60,
+            "accuracy": 95,
+            "powerpoints": 25
+        },
+        {
+            "name": "Air Slash",
+            "type": "flying",
+            "category": "special",
+            "power": 75,
+            "accuracy": 95,
+            "powerpoints": 15
+        },
+        {
+            "name": "Ancient Power",
+            "type": "rock",
+            "category": "special",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Apple Acid",
+            "type": "grass",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Aura Sphere",
+            "type": "fighting",
+            "category": "special",
+            "power": 80,
+            "accuracy": 101,
+            "powerpoints": 20
+        },
+        {
+            "name": "Aurora Beam",
+            "type": "ice",
+            "category": "special",
+            "power": 65,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Baddy Bad",
+            "type": "dark",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Belch",
+            "type": "poison",
+            "category": "special",
+            "power": 120,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Blast Burn",
+            "type": "fire",
+            "category": "special",
+            "power": 150,
+            "accuracy": 90,
+            "powerpoints": 5
+        },
+        {
+            "name": "Blizzard",
+            "type": "ice",
+            "category": "special",
+            "power": 110,
+            "accuracy": 70,
+            "powerpoints": 5
+        },
+        {
+            "name": "Blue Flare",
+            "type": "fire",
+            "category": "special",
+            "power": 130,
+            "accuracy": 85,
+            "powerpoints": 5
+        },
+        {
+            "name": "Boomburst",
+            "type": "normal",
+            "category": "special",
+            "power": 140,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Bouncy Bubble",
+            "type": "water",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Brine",
+            "type": "water",
+            "category": "special",
+            "power": 65,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Bubble",
+            "type": "water",
+            "category": "special",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Bubble Beam",
+            "type": "water",
+            "category": "special",
+            "power": 65,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Bug Buzz",
+            "type": "bug",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Burn Up",
+            "type": "fire",
+            "category": "special",
+            "power": 130,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Buzzy Buzz",
+            "type": "electric",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Charge Beam",
+            "type": "electric",
+            "category": "special",
+            "power": 50,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Chatter",
+            "type": "flying",
+            "category": "special",
+            "power": 65,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Clanging Scales",
+            "type": "dragon",
+            "category": "special",
+            "power": 110,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Clangorous Soulblaze",
+            "type": "dragon",
+            "category": "special",
+            "power": 185,
+            "accuracy": 101,
+            "powerpoints": 1
+        },
+        {
+            "name": "Clear Smog",
+            "type": "poison",
+            "category": "special",
+            "power": 50,
+            "accuracy": 101,
+            "powerpoints": 15
+        },
+        {
+            "name": "Confusion",
+            "type": "psychic",
+            "category": "special",
+            "power": 50,
+            "accuracy": 100,
+            "powerpoints": 25
+        },
+        {
+            "name": "Core Enforcer",
+            "type": "dragon",
+            "category": "special",
+            "power": 100,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Dark Pulse",
+            "type": "dark",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Dazzling Gleam",
+            "type": "fairy",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Disarming Voice",
+            "type": "fairy",
+            "category": "special",
+            "power": 40,
+            "accuracy": 101,
+            "powerpoints": 15
+        },
+        {
+            "name": "Discharge",
+            "type": "electric",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Doom Desire",
+            "type": "steel",
+            "category": "special",
+            "power": 140,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Draco Meteor",
+            "type": "dragon",
+            "category": "special",
+            "power": 130,
+            "accuracy": 90,
+            "powerpoints": 5
+        },
+        {
+            "name": "Dragon Breath",
+            "type": "dragon",
+            "category": "special",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Dragon Pulse",
+            "type": "dragon",
+            "category": "special",
+            "power": 85,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Dragon Rage",
+            "type": "dragon",
+            "category": "special",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Draining Kiss",
+            "type": "fairy",
+            "category": "special",
+            "power": 50,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Dream Eater",
+            "type": "psychic",
+            "category": "special",
+            "power": 100,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Dynamax Cannon",
+            "type": "dragon",
+            "category": "special",
+            "power": 100,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Earth Power",
+            "type": "ground",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Echoed Voice",
+            "type": "normal",
+            "category": "special",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Electro Ball",
+            "type": "electric",
+            "category": "special",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Electroweb",
+            "type": "electric",
+            "category": "special",
+            "power": 55,
+            "accuracy": 95,
+            "powerpoints": 15
+        },
+        {
+            "name": "Ember",
+            "type": "fire",
+            "category": "special",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 25
+        },
+        {
+            "name": "Energy Ball",
+            "type": "grass",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Eruption",
+            "type": "fire",
+            "category": "special",
+            "power": 150,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Eternabeam",
+            "type": "dragon",
+            "category": "special",
+            "power": 160,
+            "accuracy": 90,
+            "powerpoints": 5
+        },
+        {
+            "name": "Expanding Force",
+            "type": "psychic",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Extrasensory",
+            "type": "psychic",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Fairy Wind",
+            "type": "fairy",
+            "category": "special",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Fiery Dance",
+            "type": "fire",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Final Gambit",
+            "type": "fighting",
+            "category": "special",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Fire Blast",
+            "type": "fire",
+            "category": "special",
+            "power": 110,
+            "accuracy": 85,
+            "powerpoints": 5
+        },
+        {
+            "name": "Fire Pledge",
+            "type": "fire",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Fire Spin",
+            "type": "fire",
+            "category": "special",
+            "power": 35,
+            "accuracy": 85,
+            "powerpoints": 15
+        },
+        {
+            "name": "Flame Burst",
+            "type": "fire",
+            "category": "special",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Flamethrower",
+            "type": "fire",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Flash Cannon",
+            "type": "steel",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Fleur Cannon",
+            "type": "fairy",
+            "category": "special",
+            "power": 130,
+            "accuracy": 90,
+            "powerpoints": 5
+        },
+        {
+            "name": "Focus Blast",
+            "type": "fighting",
+            "category": "special",
+            "power": 120,
+            "accuracy": 70,
+            "powerpoints": 5
+        },
+        {
+            "name": "Freeze-Dry",
+            "type": "ice",
+            "category": "special",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Freezy Frost",
+            "type": "ice",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Frenzy Plant",
+            "type": "grass",
+            "category": "special",
+            "power": 150,
+            "accuracy": 90,
+            "powerpoints": 5
+        },
+        {
+            "name": "Frost Breath",
+            "type": "ice",
+            "category": "special",
+            "power": 60,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Fusion Flare",
+            "type": "fire",
+            "category": "special",
+            "power": 100,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Future Sight",
+            "type": "psychic",
+            "category": "special",
+            "power": 120,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Genesis Supernova",
+            "type": "psychic",
+            "category": "special",
+            "power": 185,
+            "accuracy": 101,
+            "powerpoints": 1
+        },
+        {
+            "name": "Giga Drain",
+            "type": "grass",
+            "category": "special",
+            "power": 75,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Glaciate",
+            "type": "ice",
+            "category": "special",
+            "power": 65,
+            "accuracy": 95,
+            "powerpoints": 10
+        },
+        {
+            "name": "Glitzy Glow",
+            "type": "psychic",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Grass Knot",
+            "type": "grass",
+            "category": "special",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Grass Pledge",
+            "type": "grass",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Guardian of Alola",
+            "type": "fairy",
+            "category": "special",
+            "power": -1,
+            "accuracy": 101,
+            "powerpoints": 1
+        },
+        {
+            "name": "Gust",
+            "type": "flying",
+            "category": "special",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 35
+        },
+        {
+            "name": "Heat Wave",
+            "type": "fire",
+            "category": "special",
+            "power": 95,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Hex",
+            "type": "ghost",
+            "category": "special",
+            "power": 65,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Hidden Power",
+            "type": "normal",
+            "category": "special",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Hurricane",
+            "type": "flying",
+            "category": "special",
+            "power": 110,
+            "accuracy": 70,
+            "powerpoints": 10
+        },
+        {
+            "name": "Hydro Cannon",
+            "type": "water",
+            "category": "special",
+            "power": 150,
+            "accuracy": 90,
+            "powerpoints": 5
+        },
+        {
+            "name": "Hydro Pump",
+            "type": "water",
+            "category": "special",
+            "power": 110,
+            "accuracy": 80,
+            "powerpoints": 5
+        },
+        {
+            "name": "Hyper Beam",
+            "type": "normal",
+            "category": "special",
+            "power": 150,
+            "accuracy": 90,
+            "powerpoints": 5
+        },
+        {
+            "name": "Hyper Voice",
+            "type": "normal",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Hyperspace Hole",
+            "type": "psychic",
+            "category": "special",
+            "power": 80,
+            "accuracy": 101,
+            "powerpoints": 5
+        },
+        {
+            "name": "Ice Beam",
+            "type": "ice",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Ice Burn",
+            "type": "ice",
+            "category": "special",
+            "power": 140,
+            "accuracy": 90,
+            "powerpoints": 5
+        },
+        {
+            "name": "Icy Wind",
+            "type": "ice",
+            "category": "special",
+            "power": 55,
+            "accuracy": 95,
+            "powerpoints": 15
+        },
+        {
+            "name": "Incinerate",
+            "type": "fire",
+            "category": "special",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Inferno",
+            "type": "fire",
+            "category": "special",
+            "power": 100,
+            "accuracy": 50,
+            "powerpoints": 5
+        },
+        {
+            "name": "Infestation",
+            "type": "bug",
+            "category": "special",
+            "power": 20,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Judgment",
+            "type": "normal",
+            "category": "special",
+            "power": 100,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Lava Plume",
+            "type": "fire",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Leaf Storm",
+            "type": "grass",
+            "category": "special",
+            "power": 130,
+            "accuracy": 90,
+            "powerpoints": 5
+        },
+        {
+            "name": "Leaf Tornado",
+            "type": "grass",
+            "category": "special",
+            "power": 65,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Light of Ruin",
+            "type": "fairy",
+            "category": "special",
+            "power": 140,
+            "accuracy": 90,
+            "powerpoints": 5
+        },
+        {
+            "name": "Light That Burns the Sky",
+            "type": "psychic",
+            "category": "special",
+            "power": 200,
+            "accuracy": 101,
+            "powerpoints": 1
+        },
+        {
+            "name": "Luster Purge",
+            "type": "psychic",
+            "category": "special",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Magical Leaf",
+            "type": "grass",
+            "category": "special",
+            "power": 60,
+            "accuracy": 101,
+            "powerpoints": 20
+        },
+        {
+            "name": "Magma Storm",
+            "type": "fire",
+            "category": "special",
+            "power": 100,
+            "accuracy": 75,
+            "powerpoints": 5
+        },
+        {
+            "name": "Mega Drain",
+            "type": "grass",
+            "category": "special",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Menacing Moonraze Maelstrom",
+            "type": "ghost",
+            "category": "special",
+            "power": 200,
+            "accuracy": 101,
+            "powerpoints": 1
+        },
+        {
+            "name": "Meteor Beam",
+            "type": "rock",
+            "category": "special",
+            "power": 120,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Mind Blown",
+            "type": "fire",
+            "category": "special",
+            "power": 150,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Mirror Coat",
+            "type": "psychic",
+            "category": "special",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Mirror Shot",
+            "type": "steel",
+            "category": "special",
+            "power": 65,
+            "accuracy": 85,
+            "powerpoints": 10
+        },
+        {
+            "name": "Mist Ball",
+            "type": "psychic",
+            "category": "special",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Misty Explosion",
+            "type": "fairy",
+            "category": "special",
+            "power": 100,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Moonblast",
+            "type": "fairy",
+            "category": "special",
+            "power": 95,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Moongeist Beam",
+            "type": "ghost",
+            "category": "special",
+            "power": 100,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Mud Bomb",
+            "type": "ground",
+            "category": "special",
+            "power": 65,
+            "accuracy": 85,
+            "powerpoints": 10
+        },
+        {
+            "name": "Mud Shot",
+            "type": "ground",
+            "category": "special",
+            "power": 55,
+            "accuracy": 95,
+            "powerpoints": 15
+        },
+        {
+            "name": "Mud-Slap",
+            "type": "ground",
+            "category": "special",
+            "power": 20,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Muddy Water",
+            "type": "water",
+            "category": "special",
+            "power": 90,
+            "accuracy": 85,
+            "powerpoints": 10
+        },
+        {
+            "name": "Mystical Fire",
+            "type": "fire",
+            "category": "special",
+            "power": 75,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Nature's Madness",
+            "type": "fairy",
+            "category": "special",
+            "power": -1,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Night Daze",
+            "type": "dark",
+            "category": "special",
+            "power": 85,
+            "accuracy": 95,
+            "powerpoints": 10
+        },
+        {
+            "name": "Night Shade",
+            "type": "ghost",
+            "category": "special",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Oblivion Wing",
+            "type": "flying",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Oceanic Operetta",
+            "type": "water",
+            "category": "special",
+            "power": 195,
+            "accuracy": 101,
+            "powerpoints": 1
+        },
+        {
+            "name": "Octazooka",
+            "type": "water",
+            "category": "special",
+            "power": 65,
+            "accuracy": 85,
+            "powerpoints": 10
+        },
+        {
+            "name": "Ominous Wind",
+            "type": "ghost",
+            "category": "special",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Origin Pulse",
+            "type": "water",
+            "category": "special",
+            "power": 110,
+            "accuracy": 85,
+            "powerpoints": 10
+        },
+        {
+            "name": "Overdrive",
+            "type": "electric",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Overheat",
+            "type": "fire",
+            "category": "special",
+            "power": 130,
+            "accuracy": 90,
+            "powerpoints": 5
+        },
+        {
+            "name": "Parabolic Charge",
+            "type": "electric",
+            "category": "special",
+            "power": 65,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Petal Dance",
+            "type": "grass",
+            "category": "special",
+            "power": 120,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Photon Geyser",
+            "type": "psychic",
+            "category": "special",
+            "power": 100,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Pika Papow",
+            "type": "electric",
+            "category": "special",
+            "power": -1,
+            "accuracy": 101,
+            "powerpoints": 20
+        },
+        {
+            "name": "Pollen Puff",
+            "type": "bug",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Powder Snow",
+            "type": "ice",
+            "category": "special",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 25
+        },
+        {
+            "name": "Power Gem",
+            "type": "rock",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Prismatic Laser",
+            "type": "psychic",
+            "category": "special",
+            "power": 160,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Psybeam",
+            "type": "psychic",
+            "category": "special",
+            "power": 65,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Psychic",
+            "type": "psychic",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Psycho Boost",
+            "type": "psychic",
+            "category": "special",
+            "power": 140,
+            "accuracy": 90,
+            "powerpoints": 5
+        },
+        {
+            "name": "Psyshock",
+            "type": "psychic",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Psystrike",
+            "type": "psychic",
+            "category": "special",
+            "power": 100,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Psywave",
+            "type": "psychic",
+            "category": "special",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Razor Wind",
+            "type": "normal",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Relic Song",
+            "type": "normal",
+            "category": "special",
+            "power": 75,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Revelation Dance",
+            "type": "normal",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Rising Voltage",
+            "type": "electric",
+            "category": "special",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Roar of Time",
+            "type": "dragon",
+            "category": "special",
+            "power": 150,
+            "accuracy": 90,
+            "powerpoints": 5
+        },
+        {
+            "name": "Round",
+            "type": "normal",
+            "category": "special",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Scald",
+            "type": "water",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Scorching Sands",
+            "type": "ground",
+            "category": "special",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Searing Shot",
+            "type": "fire",
+            "category": "special",
+            "power": 100,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Secret Sword",
+            "type": "fighting",
+            "category": "special",
+            "power": 85,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Seed Flare",
+            "type": "grass",
+            "category": "special",
+            "power": 120,
+            "accuracy": 85,
+            "powerpoints": 5
+        },
+        {
+            "name": "Shadow Ball",
+            "type": "ghost",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Sheer Cold",
+            "type": "ice",
+            "category": "special",
+            "power": -1,
+            "accuracy": 30,
+            "powerpoints": 5
+        },
+        {
+            "name": "Shell Side Arm",
+            "type": "poison",
+            "category": "special",
+            "power": -1,
+            "accuracy": 101,
+            "powerpoints": 1
+        },
+        {
+            "name": "Shell Trap",
+            "type": "fire",
+            "category": "special",
+            "power": 150,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Shock Wave",
+            "type": "electric",
+            "category": "special",
+            "power": 60,
+            "accuracy": 101,
+            "powerpoints": 20
+        },
+        {
+            "name": "Signal Beam",
+            "type": "bug",
+            "category": "special",
+            "power": 75,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Silver Wind",
+            "type": "bug",
+            "category": "special",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Sludge",
+            "type": "poison",
+            "category": "special",
+            "power": 65,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Sludge Bomb",
+            "type": "poison",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Sludge Wave",
+            "type": "poison",
+            "category": "special",
+            "power": 95,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Smog",
+            "type": "poison",
+            "category": "special",
+            "power": 30,
+            "accuracy": 70,
+            "powerpoints": 20
+        },
+        {
+            "name": "Snarl",
+            "type": "dark",
+            "category": "special",
+            "power": 55,
+            "accuracy": 95,
+            "powerpoints": 15
+        },
+        {
+            "name": "Snipe Shot",
+            "type": "water",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Snore",
+            "type": "normal",
+            "category": "special",
+            "power": 50,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Solar Beam",
+            "type": "grass",
+            "category": "special",
+            "power": 120,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Sonic Boom",
+            "type": "normal",
+            "category": "special",
+            "power": -1,
+            "accuracy": 90,
+            "powerpoints": 20
+        },
+        {
+            "name": "Spacial Rend",
+            "type": "dragon",
+            "category": "special",
+            "power": 100,
+            "accuracy": 95,
+            "powerpoints": 5
+        },
+        {
+            "name": "Sparkling Aria",
+            "type": "water",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Sparkly Swirl",
+            "type": "fairy",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Spit Up",
+            "type": "normal",
+            "category": "special",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Splishy Splash",
+            "type": "water",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Steam Eruption",
+            "type": "water",
+            "category": "special",
+            "power": 110,
+            "accuracy": 95,
+            "powerpoints": 5
+        },
+        {
+            "name": "Steel Beam",
+            "type": "steel",
+            "category": "special",
+            "power": 140,
+            "accuracy": 95,
+            "powerpoints": 5
+        },
+        {
+            "name": "Stoked Sparksurfer",
+            "type": "electric",
+            "category": "special",
+            "power": 175,
+            "accuracy": 101,
+            "powerpoints": 1
+        },
+        {
+            "name": "Stored Power",
+            "type": "psychic",
+            "category": "special",
+            "power": 20,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Strange Steam",
+            "type": "fairy",
+            "category": "special",
+            "power": 90,
+            "accuracy": 95,
+            "powerpoints": 10
+        },
+        {
+            "name": "Struggle Bug",
+            "type": "bug",
+            "category": "special",
+            "power": 50,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Surf",
+            "type": "water",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Swift",
+            "type": "normal",
+            "category": "special",
+            "power": 60,
+            "accuracy": 101,
+            "powerpoints": 20
+        },
+        {
+            "name": "Synchronoise",
+            "type": "psychic",
+            "category": "special",
+            "power": 120,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Techno Blast",
+            "type": "normal",
+            "category": "special",
+            "power": 120,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Terrain Pulse",
+            "type": "normal",
+            "category": "special",
+            "power": 50,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Thunder",
+            "type": "electric",
+            "category": "special",
+            "power": 110,
+            "accuracy": 70,
+            "powerpoints": 10
+        },
+        {
+            "name": "Thunder Shock",
+            "type": "electric",
+            "category": "special",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Thunderbolt",
+            "type": "electric",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Tri Attack",
+            "type": "normal",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Trump Card",
+            "type": "normal",
+            "category": "special",
+            "power": -1,
+            "accuracy": 101,
+            "powerpoints": 5
+        },
+        {
+            "name": "Twister",
+            "type": "dragon",
+            "category": "special",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Uproar",
+            "type": "normal",
+            "category": "special",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Vacuum Wave",
+            "type": "fighting",
+            "category": "special",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Venoshock",
+            "type": "poison",
+            "category": "special",
+            "power": 65,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Volt Switch",
+            "type": "electric",
+            "category": "special",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Water Gun",
+            "type": "water",
+            "category": "special",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 25
+        },
+        {
+            "name": "Water Pledge",
+            "type": "water",
+            "category": "special",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Water Pulse",
+            "type": "water",
+            "category": "special",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Water Shuriken",
+            "type": "water",
+            "category": "special",
+            "power": 15,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Water Spout",
+            "type": "water",
+            "category": "special",
+            "power": 150,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Weather Ball",
+            "type": "normal",
+            "category": "special",
+            "power": 50,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Whirlpool",
+            "type": "water",
+            "category": "special",
+            "power": 35,
+            "accuracy": 85,
+            "powerpoints": 15
+        },
+        {
+            "name": "Wring Out",
+            "type": "normal",
+            "category": "special",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Zap Cannon",
+            "type": "electric",
+            "category": "special",
+            "power": 120,
+            "accuracy": 50,
+            "powerpoints": 5
+        }
+    ]
+}

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Logic.Repositories.PokeTypeRepository
 {
-    interface IPokeTypeRepository
+    public interface IPokeTypeRepository
     {
         public Dictionary<string, double> GetWeaknesses(PokeType primary, PokeType? secondary = null);
         public Dictionary<string, double> GetEffectiveness(PokeType attack);

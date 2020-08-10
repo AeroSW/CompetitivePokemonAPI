@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Reflection;
 
 namespace Logic.Models
 {
@@ -73,13 +74,14 @@ namespace Logic.Models
         private static void Setup()
         {
             // Constant variables that will never change type.
-            const string JsonPathTemplate = "../PokemonDetails/Types/{{type}}.json";
+            //const string JsonPathTemplate = "./PokemonDetails/Types/{{type}}.json";
+            string JsonPathTemplate = $"{Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)}/PokemonDetails/Types/[[type]].json";
 
             // Instantiate TypeChart
             TypeChart = new Dictionary<PokeType, Dictionary<PokeType, double>>();
 
             TypesList.ForEach(type => {
-                var typePath = JsonPathTemplate.Replace("{{type}}", type);
+                var typePath = JsonPathTemplate.Replace("[[type]]", type);
                 var pokeType = PokeTypeUtility.ToEnum(type);
                 // Instantiate the Type's values.
                 TypeChart.Add(pokeType, new Dictionary<PokeType, double>());
@@ -102,8 +104,7 @@ namespace Logic.Models
             {
                 Setup();
             }
-            TypeChart.Keys.ToList().ForEach(key =>
-            {
+            TypeChart.Keys.ToList().ForEach(key => {
                 var keyStr = PokeTypeUtility.ToString(key);
                 result.Add(keyStr, TypeChart[key][type]);
             });

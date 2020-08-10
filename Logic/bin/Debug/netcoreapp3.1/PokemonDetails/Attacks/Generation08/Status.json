@@ -1,0 +1,2037 @@
+{
+    "attacks": [
+        {
+            "name": "Acid Armor",
+            "type": "poison",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Acupressure",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 30
+        },
+        {
+            "name": "After You",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 15
+        },
+        {
+            "name": "Agility",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 30
+        },
+        {
+            "name": "Ally Switch",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 15
+        },
+        {
+            "name": "Amnesia",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Aqua Ring",
+            "type": "water",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Aromatherapy",
+            "type": "grass",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 5
+        },
+        {
+            "name": "Aromatic Mist",
+            "type": "fairy",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Assist",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Attract",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Aurora Veil",
+            "type": "ice",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Autotomize",
+            "type": "steel",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 15
+        },
+        {
+            "name": "Baby-Doll Eyes",
+            "type": "fairy",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Baneful Bunker",
+            "type": "poison",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Barrier",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Baton Pass",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 40
+        },
+        {
+            "name": "Belly Drum",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Bestow",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 15
+        },
+        {
+            "name": "Block",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 5
+        },
+        {
+            "name": "Bulk Up",
+            "type": "fighting",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Calm Mind",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Camouflage",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Captivate",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Celebrate",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 40
+        },
+        {
+            "name": "Charge",
+            "type": "electric",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Charm",
+            "type": "fairy",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Clangorous Soul",
+            "type": "dragon",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Coaching",
+            "type": "fighting",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Coil",
+            "type": "poison",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Confide",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Confuse Ray",
+            "type": "ghost",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Conversion",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 30
+        },
+        {
+            "name": "Conversion 2",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 30
+        },
+        {
+            "name": "Copycat",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Corrosive Gas",
+            "type": "poison",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 40
+        },
+        {
+            "name": "Cosmic Power",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Cotton Guard",
+            "type": "grass",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Cotton Spore",
+            "type": "grass",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 40
+        },
+        {
+            "name": "Court Change",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Crafty Shield",
+            "type": "fairy",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Curse",
+            "type": "ghost",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Dark Void",
+            "type": "dark",
+            "category": "status",
+            "power": null,
+            "accuracy": 50,
+            "powerpoints": 10
+        },
+        {
+            "name": "Decorate",
+            "type": "fairy",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 15
+        },
+        {
+            "name": "Defend Order",
+            "type": "bug",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Defense Curl",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 40
+        },
+        {
+            "name": "Defog",
+            "type": "flying",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 15
+        },
+        {
+            "name": "Destiny Bond",
+            "type": "ghost",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 5
+        },
+        {
+            "name": "Detect",
+            "type": "fighting",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 5
+        },
+        {
+            "name": "Disable",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Double Team",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 15
+        },
+        {
+            "name": "Dragon Dance",
+            "type": "dragon",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Eerie Impulse",
+            "type": "electric",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Electric Terrain",
+            "type": "electric",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Electrify",
+            "type": "electric",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Embargo",
+            "type": "dark",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Encore",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Endure",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Entrainment",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Extreme Evoboost",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 1
+        },
+        {
+            "name": "Fairy Lock",
+            "type": "fairy",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Fake Tears",
+            "type": "dark",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Feather Dance",
+            "type": "flying",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Flash",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Flatter",
+            "type": "dark",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Floral Healing",
+            "type": "fairy",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Flower Shield",
+            "type": "fairy",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Focus Energy",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 30
+        },
+        {
+            "name": "Follow Me",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Foresight",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 40
+        },
+        {
+            "name": "Forest's Curse",
+            "type": "grass",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Gastro Acid",
+            "type": "poison",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Gear Up",
+            "type": "steel",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Geomancy",
+            "type": "fairy",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Glare",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Grass Whistle",
+            "type": "grass",
+            "category": "status",
+            "power": null,
+            "accuracy": 55,
+            "powerpoints": 15
+        },
+        {
+            "name": "Grassy Terrain",
+            "type": "grass",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Gravity",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 5
+        },
+        {
+            "name": "Growl",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 40
+        },
+        {
+            "name": "Growth",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Grudge",
+            "type": "ghost",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 5
+        },
+        {
+            "name": "Guard Split",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Guard Swap",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Hail",
+            "type": "ice",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Happy Hour",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 30
+        },
+        {
+            "name": "Harden",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 30
+        },
+        {
+            "name": "Haze",
+            "type": "ice",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 30
+        },
+        {
+            "name": "Heal Bell",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 5
+        },
+        {
+            "name": "Heal Block",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Heal Order",
+            "type": "bug",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Heal Pulse",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Healing Wish",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Heart Swap",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Helping Hand",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Hold Hands",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 40
+        },
+        {
+            "name": "Hone Claws",
+            "type": "dark",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 15
+        },
+        {
+            "name": "Howl",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 40
+        },
+        {
+            "name": "Hypnosis",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": 60,
+            "powerpoints": 20
+        },
+        {
+            "name": "Imprison",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Ingrain",
+            "type": "grass",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Instruct",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 15
+        },
+        {
+            "name": "Ion Deluge",
+            "type": "electric",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 25
+        },
+        {
+            "name": "Iron Defense",
+            "type": "steel",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 15
+        },
+        {
+            "name": "Jungle Healing",
+            "type": "grass",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 1
+        },
+        {
+            "name": "Kinesis",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": 80,
+            "powerpoints": 15
+        },
+        {
+            "name": "King's Shield",
+            "type": "steel",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Laser Focus",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 30
+        },
+        {
+            "name": "Leech Seed",
+            "type": "grass",
+            "category": "status",
+            "power": null,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Leer",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Life Dew",
+            "type": "water",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Light Screen",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 30
+        },
+        {
+            "name": "Lock-On",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 5
+        },
+        {
+            "name": "Lovely Kiss",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 75,
+            "powerpoints": 10
+        },
+        {
+            "name": "Lucky Chant",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 30
+        },
+        {
+            "name": "Lunar Dance",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Magic Coat",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 15
+        },
+        {
+            "name": "Magic Powder",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Magic Room",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Magnet Rise",
+            "type": "electric",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Magnetic Flux",
+            "type": "electric",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Mat Block",
+            "type": "fighting",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Me First",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Mean Look",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 5
+        },
+        {
+            "name": "Meditate",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 40
+        },
+        {
+            "name": "Memento",
+            "type": "dark",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Metal Sound",
+            "type": "steel",
+            "category": "status",
+            "power": null,
+            "accuracy": 85,
+            "powerpoints": 40
+        },
+        {
+            "name": "Metronome",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Milk Drink",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Mimic",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Mind Reader",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 5
+        },
+        {
+            "name": "Minimize",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Miracle Eye",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 40
+        },
+        {
+            "name": "Mirror Move",
+            "type": "flying",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Mist",
+            "type": "ice",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 30
+        },
+        {
+            "name": "Misty Terrain",
+            "type": "fairy",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Moonlight",
+            "type": "fairy",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 5
+        },
+        {
+            "name": "Morning Sun",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 5
+        },
+        {
+            "name": "Mud Sport",
+            "type": "ground",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 15
+        },
+        {
+            "name": "Nasty Plot",
+            "type": "dark",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Nature Power",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Nightmare",
+            "type": "ghost",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "No Retreat",
+            "type": "fighting",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 5
+        },
+        {
+            "name": "Noble Roar",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Obstruct",
+            "type": "dark",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Octolock",
+            "type": "fighting",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Odor Sleuth",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 40
+        },
+        {
+            "name": "Pain Split",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Parting Shot",
+            "type": "dark",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Perish Song",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 5
+        },
+        {
+            "name": "Play Nice",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Poison Gas",
+            "type": "poison",
+            "category": "status",
+            "power": null,
+            "accuracy": 90,
+            "powerpoints": 40
+        },
+        {
+            "name": "Poison Powder",
+            "type": "poison",
+            "category": "status",
+            "power": null,
+            "accuracy": 75,
+            "powerpoints": 35
+        },
+        {
+            "name": "Powder",
+            "type": "bug",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Power Split",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Power Swap",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Power Trick",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Protect",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Psych Up",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Psychic Terrain",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Psycho Shift",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Purify",
+            "type": "poison",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Quash",
+            "type": "dark",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Quick Guard",
+            "type": "fighting",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 15
+        },
+        {
+            "name": "Quiver Dance",
+            "type": "bug",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Rage Powder",
+            "type": "bug",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Rain Dance",
+            "type": "water",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 5
+        },
+        {
+            "name": "Recover",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Recycle",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Reflect",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Reflect Type",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 15
+        },
+        {
+            "name": "Refresh",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Rest",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Roar",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Rock Polish",
+            "type": "rock",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Role Play",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Roost",
+            "type": "flying",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Rototiller",
+            "type": "ground",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Safeguard",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 25
+        },
+        {
+            "name": "Sand Attack",
+            "type": "ground",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Sandstorm",
+            "type": "rock",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Scary Face",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Screech",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 85,
+            "powerpoints": 40
+        },
+        {
+            "name": "Sharpen",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 30
+        },
+        {
+            "name": "Shell Smash",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 15
+        },
+        {
+            "name": "Shift Gear",
+            "type": "steel",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Shore Up",
+            "type": "ground",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Simple Beam",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Sing",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 55,
+            "powerpoints": 15
+        },
+        {
+            "name": "Sketch",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 1
+        },
+        {
+            "name": "Skill Swap",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Slack Off",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Sleep Powder",
+            "type": "grass",
+            "category": "status",
+            "power": null,
+            "accuracy": 75,
+            "powerpoints": 15
+        },
+        {
+            "name": "Sleep Talk",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Smokescreen",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Snatch",
+            "type": "dark",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Soak",
+            "type": "water",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Soft-Boiled",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Speed Swap",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Spider Web",
+            "type": "bug",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Spikes",
+            "type": "ground",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Spiky Shield",
+            "type": "grass",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Spite",
+            "type": "ghost",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Splash",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 40
+        },
+        {
+            "name": "Spore",
+            "type": "grass",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Spotlight",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 15
+        },
+        {
+            "name": "Stealth Rock",
+            "type": "rock",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Sticky Web",
+            "type": "bug",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Stockpile",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Strength Sap",
+            "type": "grass",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "String Shot",
+            "type": "bug",
+            "category": "status",
+            "power": null,
+            "accuracy": 95,
+            "powerpoints": 40
+        },
+        {
+            "name": "Stuff Cheeks",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Stun Spore",
+            "type": "grass",
+            "category": "status",
+            "power": null,
+            "accuracy": 75,
+            "powerpoints": 30
+        },
+        {
+            "name": "Substitute",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Sunny Day",
+            "type": "fire",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 5
+        },
+        {
+            "name": "Supersonic",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 55,
+            "powerpoints": 20
+        },
+        {
+            "name": "Swagger",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 85,
+            "powerpoints": 15
+        },
+        {
+            "name": "Swallow",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Sweet Kiss",
+            "type": "fairy",
+            "category": "status",
+            "power": null,
+            "accuracy": 75,
+            "powerpoints": 10
+        },
+        {
+            "name": "Sweet Scent",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Switcheroo",
+            "type": "dark",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Swords Dance",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Synthesis",
+            "type": "grass",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 5
+        },
+        {
+            "name": "Tail Glow",
+            "type": "bug",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Tail Whip",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Tailwind",
+            "type": "flying",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 15
+        },
+        {
+            "name": "Tar Shot",
+            "type": "rock",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Taunt",
+            "type": "dark",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Tearful Look",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Teatime",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Teeter Dance",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Telekinesis",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 15
+        },
+        {
+            "name": "Teleport",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Thunder Wave",
+            "type": "electric",
+            "category": "status",
+            "power": null,
+            "accuracy": 90,
+            "powerpoints": 20
+        },
+        {
+            "name": "Tickle",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Topsy-Turvy",
+            "type": "dark",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Torment",
+            "type": "dark",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Toxic",
+            "type": "poison",
+            "category": "status",
+            "power": null,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Toxic Spikes",
+            "type": "poison",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Toxic Thread",
+            "type": "poison",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Transform",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Trick",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Trick Room",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 5
+        },
+        {
+            "name": "Trick-or-Treat",
+            "type": "ghost",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Venom Drench",
+            "type": "poison",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Water Sport",
+            "type": "water",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 15
+        },
+        {
+            "name": "Whirlwind",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 20
+        },
+        {
+            "name": "Wide Guard",
+            "type": "rock",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Will-O-Wisp",
+            "type": "fire",
+            "category": "status",
+            "power": null,
+            "accuracy": 85,
+            "powerpoints": 15
+        },
+        {
+            "name": "Wish",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Withdraw",
+            "type": "water",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 40
+        },
+        {
+            "name": "Wonder Room",
+            "type": "psychic",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        },
+        {
+            "name": "Work Up",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 30
+        },
+        {
+            "name": "Worry Seed",
+            "type": "grass",
+            "category": "status",
+            "power": null,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Yawn",
+            "type": "normal",
+            "category": "status",
+            "power": null,
+            "accuracy": null,
+            "powerpoints": 10
+        }
+
+    ]
+}
