@@ -1,0 +1,2427 @@
+{
+    "attacks": [
+        {
+            "name": "Accelerock",
+            "type": "rock",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Acrobatics",
+            "type": "flying",
+            "category": "physical",
+            "power": 55,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Aerial Ace",
+            "type": "flying",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 101,
+            "powerpoints": 20
+        },
+        {
+            "name": "Anchor Shot",
+            "type": "steel",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Aqua Jet",
+            "type": "water",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Aqua Tail",
+            "type": "water",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Arm Thrust",
+            "type": "fighting",
+            "category": "physical",
+            "power": 15,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Assurance",
+            "type": "dark",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Astonish",
+            "type": "ghost",
+            "category": "physical",
+            "power": 30,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Attack Order",
+            "type": "bug",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Aura Wheel",
+            "type": "electric",
+            "category": "physical",
+            "power": 110,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Avalanche",
+            "type": "ice",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Barrage",
+            "type": "normal",
+            "category": "physical",
+            "power": 15,
+            "accuracy": 85,
+            "powerpoints": 20
+        },
+        {
+            "name": "Beak Blast",
+            "type": "flying",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Beat Up",
+            "type": "dark",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Behemoth Bash",
+            "type": "steel",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Behemoth Blade",
+            "type": "steel",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Bide",
+            "type": "normal",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 101,
+            "powerpoints": 10
+        },
+        {
+            "name": "Bind",
+            "type": "normal",
+            "category": "physical",
+            "power": 15,
+            "accuracy": 85,
+            "powerpoints": 20
+        },
+        {
+            "name": "Bite",
+            "type": "dark",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 25
+        },
+        {
+            "name": "Blaze Kick",
+            "type": "fire",
+            "category": "physical",
+            "power": 85,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Body Press",
+            "type": "fighting",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Body Slam",
+            "type": "normal",
+            "category": "physical",
+            "power": 85,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Bolt Beak",
+            "type": "electric",
+            "category": "physical",
+            "power": 85,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Bolt Strike",
+            "type": "electric",
+            "category": "physical",
+            "power": 130,
+            "accuracy": 85,
+            "powerpoints": 5
+        },
+        {
+            "name": "Bone Club",
+            "type": "ground",
+            "category": "physical",
+            "power": 65,
+            "accuracy": 85,
+            "powerpoints": 20
+        },
+        {
+            "name": "Bone Rush",
+            "type": "ground",
+            "category": "physical",
+            "power": 25,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Bonemerang",
+            "type": "ground",
+            "category": "physical",
+            "power": 50,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Bounce",
+            "type": "flying",
+            "category": "physical",
+            "power": 85,
+            "accuracy": 85,
+            "powerpoints": 5
+        },
+        {
+            "name": "Branch Poke",
+            "type": "grass",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 40
+        },
+        {
+            "name": "Brave Bird",
+            "type": "flying",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Breaking Swipe",
+            "type": "dragon",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Brick Break",
+            "type": "fighting",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Brutal Swing",
+            "type": "dark",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Bug Bite",
+            "type": "bug",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Bulldoze",
+            "type": "ground",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Bullet Punch",
+            "type": "steel",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Bullet Seed",
+            "type": "grass",
+            "category": "physical",
+            "power": 25,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Catastropika",
+            "type": "electric",
+            "category": "physical",
+            "power": 210,
+            "accuracy": 101,
+            "powerpoints": 1
+        },
+        {
+            "name": "Chip Away",
+            "type": "normal",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Circle Throw",
+            "type": "fighting",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Clamp",
+            "type": "water",
+            "category": "physical",
+            "power": 35,
+            "accuracy": 85,
+            "powerpoints": 15
+        },
+        {
+            "name": "Close Combat",
+            "type": "fighting",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Comet Punch",
+            "type": "normal",
+            "category": "physical",
+            "power": 18,
+            "accuracy": 85,
+            "powerpoints": 15
+        },
+        {
+            "name": "Constrict",
+            "type": "normal",
+            "category": "physical",
+            "power": 10,
+            "accuracy": 100,
+            "powerpoints": 35
+        },
+        {
+            "name": "Counter",
+            "type": "fighting",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Covet",
+            "type": "normal",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 25
+        },
+        {
+            "name": "Crabhammer",
+            "type": "water",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Cross Chop",
+            "type": "fighting",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 80,
+            "powerpoints": 5
+        },
+        {
+            "name": "Cross Poison",
+            "type": "poison",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Crunch",
+            "type": "dark",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Crush Claw",
+            "type": "normal",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 95,
+            "powerpoints": 10
+        },
+        {
+            "name": "Crush Grip",
+            "type": "normal",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Cut",
+            "type": "normal",
+            "category": "physical",
+            "power": 50,
+            "accuracy": 95,
+            "powerpoints": 30
+        },
+        {
+            "name": "Darkest Lariat",
+            "type": "dark",
+            "category": "physical",
+            "power": 85,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Diamond Storm",
+            "type": "rock",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 95,
+            "powerpoints": 5
+        },
+        {
+            "name": "Dig",
+            "type": "ground",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Dive",
+            "type": "water",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Dizzy Punch",
+            "type": "normal",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Double Hit",
+            "type": "normal",
+            "category": "physical",
+            "power": 35,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Double Iron Bash",
+            "type": "steel",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Double Kick",
+            "type": "fighting",
+            "category": "physical",
+            "power": 30,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Double Slap",
+            "type": "normal",
+            "category": "physical",
+            "power": 15,
+            "accuracy": 85,
+            "powerpoints": 10
+        },
+        {
+            "name": "Double-Edge",
+            "type": "normal",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Dragon Ascent",
+            "type": "flying",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Dragon Claw",
+            "type": "dragon",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Dragon Darts",
+            "type": "dragon",
+            "category": "physical",
+            "power": 50,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Dragon Hammer",
+            "type": "dragon",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Dragon Rush",
+            "type": "dragon",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 75,
+            "powerpoints": 10
+        },
+        {
+            "name": "Dragon Tail",
+            "type": "dragon",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Drain Punch",
+            "type": "fighting",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Drill Peck",
+            "type": "flying",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Drill Run",
+            "type": "ground",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 95,
+            "powerpoints": 10
+        },
+        {
+            "name": "Drum Beating",
+            "type": "grass",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Dual Chop",
+            "type": "dragon",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 90,
+            "powerpoints": 15
+        },
+        {
+            "name": "Dual Wingbeat",
+            "type": "flying",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Dynamic Punch",
+            "type": "fighting",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 50,
+            "powerpoints": 5
+        },
+        {
+            "name": "Earthquake",
+            "type": "ground",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Egg Bomb",
+            "type": "normal",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 75,
+            "powerpoints": 10
+        },
+        {
+            "name": "Endeavor",
+            "type": "normal",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Explosion",
+            "type": "normal",
+            "category": "physical",
+            "power": 250,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Extreme Speed",
+            "type": "normal",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Facade",
+            "type": "normal",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Fake Out",
+            "type": "normal",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "False Surrender",
+            "type": "dark",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 101,
+            "powerpoints": 10
+        },
+        {
+            "name": "False Swipe",
+            "type": "normal",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 40
+        },
+        {
+            "name": "Feint",
+            "type": "normal",
+            "category": "physical",
+            "power": 30,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Feint Attack",
+            "type": "dark",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 101,
+            "powerpoints": 20
+        },
+        {
+            "name": "Fell Stinger",
+            "type": "bug",
+            "category": "physical",
+            "power": 50,
+            "accuracy": 100,
+            "powerpoints": 25
+        },
+        {
+            "name": "Fire Fang",
+            "type": "fire",
+            "category": "physical",
+            "power": 65,
+            "accuracy": 95,
+            "powerpoints": 15
+        },
+        {
+            "name": "Fire Lash",
+            "type": "fire",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Fire Punch",
+            "type": "fire",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "First Impression",
+            "type": "bug",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Fishious Rend",
+            "type": "water",
+            "category": "physical",
+            "power": 85,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Fissure",
+            "type": "ground",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 30,
+            "powerpoints": 5
+        },
+        {
+            "name": "Flail",
+            "type": "normal",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Flame Charge",
+            "type": "fire",
+            "category": "physical",
+            "power": 50,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Flame Wheel",
+            "type": "fire",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 25
+        },
+        {
+            "name": "Flare Blitz",
+            "type": "fire",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Fling",
+            "type": "dark",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Flip Turn",
+            "type": "water",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Floaty Fall",
+            "type": "flying",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 95,
+            "powerpoints": 15
+        },
+        {
+            "name": "Fly",
+            "type": "flying",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 95,
+            "powerpoints": 15
+        },
+        {
+            "name": "Flying Press",
+            "type": "fighting",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 95,
+            "powerpoints": 10
+        },
+        {
+            "name": "Focus Punch",
+            "type": "fighting",
+            "category": "physical",
+            "power": 150,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Force Palm",
+            "type": "fighting",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Foul Play",
+            "type": "dark",
+            "category": "physical",
+            "power": 95,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Freeze Shock",
+            "type": "ice",
+            "category": "physical",
+            "power": 140,
+            "accuracy": 90,
+            "powerpoints": 5
+        },
+        {
+            "name": "Frustration",
+            "type": "normal",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Fury Attack",
+            "type": "normal",
+            "category": "physical",
+            "power": 15,
+            "accuracy": 85,
+            "powerpoints": 20
+        },
+        {
+            "name": "Fury Cutter",
+            "type": "bug",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 95,
+            "powerpoints": 20
+        },
+        {
+            "name": "Fury Swipes",
+            "type": "normal",
+            "category": "physical",
+            "power": 18,
+            "accuracy": 80,
+            "powerpoints": 15
+        },
+        {
+            "name": "Fusion Bolt",
+            "type": "electric",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Gear Grind",
+            "type": "steel",
+            "category": "physical",
+            "power": 50,
+            "accuracy": 85,
+            "powerpoints": 15
+        },
+        {
+            "name": "Giga Impact",
+            "type": "normal",
+            "category": "physical",
+            "power": 150,
+            "accuracy": 90,
+            "powerpoints": 5
+        },
+        {
+            "name": "Grav Apple",
+            "type": "grass",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Guillotine",
+            "type": "normal",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 30,
+            "powerpoints": 5
+        },
+        {
+            "name": "Gunk Shot",
+            "type": "poison",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 80,
+            "powerpoints": 5
+        },
+        {
+            "name": "Gyro Ball",
+            "type": "steel",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Hammer Arm",
+            "type": "fighting",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Head Charge",
+            "type": "normal",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Head Smash",
+            "type": "rock",
+            "category": "physical",
+            "power": 150,
+            "accuracy": 80,
+            "powerpoints": 5
+        },
+        {
+            "name": "Headbutt",
+            "type": "normal",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Heart Stamp",
+            "type": "psychic",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 25
+        },
+        {
+            "name": "Heat Crash",
+            "type": "fire",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Heavy Slam",
+            "type": "steel",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "High Horsepower",
+            "type": "ground",
+            "category": "physical",
+            "power": 95,
+            "accuracy": 95,
+            "powerpoints": 10
+        },
+        {
+            "name": "High Jump Kick",
+            "type": "fighting",
+            "category": "physical",
+            "power": 130,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Hold Back",
+            "type": "normal",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 40
+        },
+        {
+            "name": "Horn Attack",
+            "type": "normal",
+            "category": "physical",
+            "power": 65,
+            "accuracy": 100,
+            "powerpoints": 25
+        },
+        {
+            "name": "Horn Drill",
+            "type": "normal",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 30,
+            "powerpoints": 5
+        },
+        {
+            "name": "Horn Leech",
+            "type": "grass",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Hyper Fang",
+            "type": "normal",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 90,
+            "powerpoints": 15
+        },
+        {
+            "name": "Hyperspace Fury",
+            "type": "dark",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 101,
+            "powerpoints": 5
+        },
+        {
+            "name": "Ice Ball",
+            "type": "ice",
+            "category": "physical",
+            "power": 30,
+            "accuracy": 90,
+            "powerpoints": 20
+        },
+        {
+            "name": "Ice Fang",
+            "type": "ice",
+            "category": "physical",
+            "power": 65,
+            "accuracy": 95,
+            "powerpoints": 15
+        },
+        {
+            "name": "Ice Hammer",
+            "type": "ice",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Ice Punch",
+            "type": "ice",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Ice Shard",
+            "type": "ice",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Icicle Crash",
+            "type": "ice",
+            "category": "physical",
+            "power": 85,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Icicle Spear",
+            "type": "ice",
+            "category": "physical",
+            "power": 25,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Iron Head",
+            "type": "steel",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Iron Tail",
+            "type": "steel",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 75,
+            "powerpoints": 15
+        },
+        {
+            "name": "Jaw Lock",
+            "type": "dark",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Jump Kick",
+            "type": "fighting",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 95,
+            "powerpoints": 10
+        },
+        {
+            "name": "Karate Chop",
+            "type": "fighting",
+            "category": "physical",
+            "power": 50,
+            "accuracy": 100,
+            "powerpoints": 25
+        },
+        {
+            "name": "Knock Off",
+            "type": "dark",
+            "category": "physical",
+            "power": 65,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Land's Wrath",
+            "type": "ground",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Lash Out",
+            "type": "dark",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Last Resort",
+            "type": "normal",
+            "category": "physical",
+            "power": 140,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Leaf Blade",
+            "type": "grass",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Leafage",
+            "type": "grass",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 40
+        },
+        {
+            "name": "Leech Life",
+            "type": "bug",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Let's Snuggle Forever ",
+            "type": "fairy",
+            "category": "physical",
+            "power": 190,
+            "accuracy": 101,
+            "powerpoints": "—"
+
+        },
+        {
+            "name": "Lick",
+            "type": "ghost",
+            "category": "physical",
+            "power": 30,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Liquidation",
+            "type": "water",
+            "category": "physical",
+            "power": 85,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Low Kick",
+            "type": "fighting",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Low Sweep",
+            "type": "fighting",
+            "category": "physical",
+            "power": 65,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Lunge",
+            "type": "bug",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Mach Punch",
+            "type": "fighting",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Magnet Bomb",
+            "type": "steel",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 101,
+            "powerpoints": 20
+        },
+        {
+            "name": "Magnitude",
+            "type": "ground",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Malicious Moonsault",
+            "type": "dark",
+            "category": "physical",
+            "power": 180,
+            "accuracy": 101,
+            "powerpoints": "—"
+
+        },
+        {
+            "name": "Mega Kick",
+            "type": "normal",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 75,
+            "powerpoints": 5
+        },
+        {
+            "name": "Mega Punch",
+            "type": "normal",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 85,
+            "powerpoints": 20
+        },
+        {
+            "name": "Megahorn",
+            "type": "bug",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 85,
+            "powerpoints": 10
+        },
+        {
+            "name": "Metal Burst",
+            "type": "steel",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Metal Claw",
+            "type": "steel",
+            "category": "physical",
+            "power": 50,
+            "accuracy": 95,
+            "powerpoints": 35
+        },
+        {
+            "name": "Meteor Assault",
+            "type": "fighting",
+            "category": "physical",
+            "power": 150,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Meteor Mash",
+            "type": "steel",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Multi-Attack",
+            "type": "normal",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Natural Gift",
+            "type": "normal",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Needle Arm",
+            "type": "grass",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Night Slash",
+            "type": "dark",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Nuzzle",
+            "type": "electric",
+            "category": "physical",
+            "power": 20,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Outrage",
+            "type": "dragon",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Pay Day",
+            "type": "normal",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Payback",
+            "type": "dark",
+            "category": "physical",
+            "power": 50,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Peck",
+            "type": "flying",
+            "category": "physical",
+            "power": 35,
+            "accuracy": 100,
+            "powerpoints": 35
+        },
+        {
+            "name": "Petal Blizzard",
+            "type": "grass",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Phantom Force",
+            "type": "ghost",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Pin Missile",
+            "type": "bug",
+            "category": "physical",
+            "power": 25,
+            "accuracy": 95,
+            "powerpoints": 20
+        },
+        {
+            "name": "Plasma Fists",
+            "type": "electric",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Play Rough",
+            "type": "fairy",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Pluck",
+            "type": "flying",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Poison Fang",
+            "type": "poison",
+            "category": "physical",
+            "power": 50,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Poison Jab",
+            "type": "poison",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Poison Sting",
+            "type": "poison",
+            "category": "physical",
+            "power": 15,
+            "accuracy": 100,
+            "powerpoints": 35
+        },
+        {
+            "name": "Poison Tail",
+            "type": "poison",
+            "category": "physical",
+            "power": 50,
+            "accuracy": 100,
+            "powerpoints": 25
+        },
+        {
+            "name": "Poltergeist",
+            "type": "ghost",
+            "category": "physical",
+            "power": 110,
+            "accuracy": 90,
+            "powerpoints": 5
+        },
+        {
+            "name": "Pound",
+            "type": "normal",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 35
+        },
+        {
+            "name": "Power Trip",
+            "type": "dark",
+            "category": "physical",
+            "power": 20,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Power Whip",
+            "type": "grass",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 85,
+            "powerpoints": 10
+        },
+        {
+            "name": "Power-Up Punch",
+            "type": "fighting",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Precipice Blades",
+            "type": "ground",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 85,
+            "powerpoints": 10
+        },
+        {
+            "name": "Present",
+            "type": "normal",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 90,
+            "powerpoints": 15
+        },
+        {
+            "name": "Psychic Fangs",
+            "type": "psychic",
+            "category": "physical",
+            "power": 85,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Psycho Cut",
+            "type": "psychic",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Pulverizing Pancake",
+            "type": "normal",
+            "category": "physical",
+            "power": 210,
+            "accuracy": 101,
+            "powerpoints": 1
+        },
+        {
+            "name": "Punishment",
+            "type": "dark",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Pursuit",
+            "type": "dark",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Pyro Ball",
+            "type": "fire",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 90,
+            "powerpoints": 5
+        },
+        {
+            "name": "Quick Attack",
+            "type": "normal",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Rage",
+            "type": "normal",
+            "category": "physical",
+            "power": 20,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Rapid Spin",
+            "type": "normal",
+            "category": "physical",
+            "power": 50,
+            "accuracy": 100,
+            "powerpoints": 40
+        },
+        {
+            "name": "Razor Leaf",
+            "type": "grass",
+            "category": "physical",
+            "power": 55,
+            "accuracy": 95,
+            "powerpoints": 25
+        },
+        {
+            "name": "Razor Shell",
+            "type": "water",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 95,
+            "powerpoints": 10
+        },
+        {
+            "name": "Retaliate",
+            "type": "normal",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Return",
+            "type": "normal",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Revenge",
+            "type": "fighting",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Reversal",
+            "type": "fighting",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Rock Blast",
+            "type": "rock",
+            "category": "physical",
+            "power": 25,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Rock Climb",
+            "type": "normal",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 85,
+            "powerpoints": 20
+        },
+        {
+            "name": "Rock Slide",
+            "type": "rock",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Rock Smash",
+            "type": "fighting",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Rock Throw",
+            "type": "rock",
+            "category": "physical",
+            "power": 50,
+            "accuracy": 90,
+            "powerpoints": 15
+        },
+        {
+            "name": "Rock Tomb",
+            "type": "rock",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 95,
+            "powerpoints": 15
+        },
+        {
+            "name": "Rock Wrecker",
+            "type": "rock",
+            "category": "physical",
+            "power": 150,
+            "accuracy": 90,
+            "powerpoints": 5
+        },
+        {
+            "name": "Rolling Kick",
+            "type": "fighting",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 85,
+            "powerpoints": 15
+        },
+        {
+            "name": "Rollout",
+            "type": "rock",
+            "category": "physical",
+            "power": 30,
+            "accuracy": 90,
+            "powerpoints": 20
+        },
+        {
+            "name": "Sacred Fire",
+            "type": "fire",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 95,
+            "powerpoints": 5
+        },
+        {
+            "name": "Sacred Sword",
+            "type": "fighting",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Sand Tomb",
+            "type": "ground",
+            "category": "physical",
+            "power": 35,
+            "accuracy": 85,
+            "powerpoints": 15
+        },
+        {
+            "name": "Sappy Seed",
+            "type": "grass",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Scale Shot",
+            "type": "dragon",
+            "category": "physical",
+            "power": 25,
+            "accuracy": 90,
+            "powerpoints": 20
+        },
+        {
+            "name": "Scratch",
+            "type": "normal",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 35
+        },
+        {
+            "name": "Searing Sunraze Smash ",
+            "type": "steel",
+            "category": "physical",
+            "power": 200,
+            "accuracy": 101,
+            "powerpoints": 1
+
+        },
+        {
+            "name": "Secret Power",
+            "type": "normal",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Seed Bomb",
+            "type": "grass",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Seismic Toss",
+            "type": "fighting",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Self-Destruct",
+            "type": "normal",
+            "category": "physical",
+            "power": 200,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Shadow Bone",
+            "type": "ghost",
+            "category": "physical",
+            "power": 85,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Shadow Claw",
+            "type": "ghost",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Shadow Force",
+            "type": "ghost",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Shadow Punch",
+            "type": "ghost",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 101,
+            "powerpoints": 20
+        },
+        {
+            "name": "Shadow Sneak",
+            "type": "ghost",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Sinister Arrow Raid",
+            "type": "ghost",
+            "category": "physical",
+            "power": 180,
+            "accuracy": 101,
+            "powerpoints": "—"
+
+        },
+        {
+            "name": "Sizzly Slide",
+            "type": "fire",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Skitter Smack",
+            "type": "bug",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Skull Bash",
+            "type": "normal",
+            "category": "physical",
+            "power": 130,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Sky Attack",
+            "type": "flying",
+            "category": "physical",
+            "power": 140,
+            "accuracy": 90,
+            "powerpoints": 5
+        },
+        {
+            "name": "Sky Drop",
+            "type": "flying",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Sky Uppercut",
+            "type": "fighting",
+            "category": "physical",
+            "power": 85,
+            "accuracy": 90,
+            "powerpoints": 15
+        },
+        {
+            "name": "Slam",
+            "type": "normal",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 75,
+            "powerpoints": 20
+        },
+        {
+            "name": "Slash",
+            "type": "normal",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Smack Down",
+            "type": "rock",
+            "category": "physical",
+            "power": 50,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Smart Strike ",
+            "type": "steel",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 101,
+            "powerpoints": "—"
+
+        },
+        {
+            "name": "Smelling Salts",
+            "type": "normal",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Snap Trap",
+            "type": "grass",
+            "category": "physical",
+            "power": 35,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Solar Blade",
+            "type": "grass",
+            "category": "physical",
+            "power": 125,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Soul-Stealing 7-Star Strike",
+            "type": "ghost",
+            "category": "physical",
+            "power": 195,
+            "accuracy": 101,
+            "powerpoints": 1
+
+        },
+        {
+            "name": "Spark",
+            "type": "electric",
+            "category": "physical",
+            "power": 65,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Spectral Thief",
+            "type": "ghost",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Spike Cannon",
+            "type": "normal",
+            "category": "physical",
+            "power": 20,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Spirit Break",
+            "type": "fairy",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Spirit Shackle",
+            "type": "ghost",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Splintered Stormshards ",
+            "type": "rock",
+            "category": "physical",
+            "power": 190,
+            "accuracy": 101,
+            "powerpoints": 1
+
+        },
+        {
+            "name": "Steamroller",
+            "type": "bug",
+            "category": "physical",
+            "power": 65,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Steel Roller",
+            "type": "steel",
+            "category": "physical",
+            "power": 130,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Steel Wing",
+            "type": "steel",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 90,
+            "powerpoints": 25
+        },
+        {
+            "name": "Stomp",
+            "type": "normal",
+            "category": "physical",
+            "power": 65,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "Stomping Tantrum",
+            "type": "ground",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Stone Edge",
+            "type": "rock",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 80,
+            "powerpoints": 5
+        },
+        {
+            "name": "Storm Throw",
+            "type": "fighting",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Strength",
+            "type": "normal",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Struggle",
+            "type": "normal",
+            "category": "physical",
+            "power": 50,
+            "accuracy": 101,
+            "powerpoints": 1
+        },
+        {
+            "name": "Submission",
+            "type": "fighting",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 80,
+            "powerpoints": 20
+        },
+        {
+            "name": "Sucker Punch",
+            "type": "dark",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Sunsteel Strike",
+            "type": "steel",
+            "category": "physical",
+            "power": 100,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Super Fang",
+            "type": "normal",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Superpower",
+            "type": "fighting",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "powerpoints": 5
+        },
+        {
+            "name": "Tackle",
+            "type": "normal",
+            "category": "physical",
+            "power": 40,
+            "accuracy": 100,
+            "powerpoints": 35
+        },
+        {
+            "name": "Tail Slap",
+            "type": "normal",
+            "category": "physical",
+            "power": 25,
+            "accuracy": 85,
+            "powerpoints": 10
+        },
+        {
+            "name": "Take Down",
+            "type": "normal",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 85,
+            "powerpoints": 20
+        },
+        {
+            "name": "Thief",
+            "type": "dark",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 25
+        },
+        {
+            "name": "Thousand Arrows",
+            "type": "ground",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Thousand Waves",
+            "type": "ground",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Thrash",
+            "type": "normal",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Throat Chop",
+            "type": "dark",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Thunder Fang",
+            "type": "electric",
+            "category": "physical",
+            "power": 65,
+            "accuracy": 95,
+            "powerpoints": 15
+        },
+        {
+            "name": "Thunder Punch",
+            "type": "electric",
+            "category": "physical",
+            "power": 75,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Triple Axel",
+            "type": "ice",
+            "category": "physical",
+            "power": 20,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Triple Kick",
+            "type": "fighting",
+            "category": "physical",
+            "power": 10,
+            "accuracy": 90,
+            "powerpoints": 10
+        },
+        {
+            "name": "Trop Kick",
+            "type": "grass",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Twineedle",
+            "type": "bug",
+            "category": "physical",
+            "power": 25,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "U-turn",
+            "type": "bug",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 20
+        },
+        {
+            "name": "V-create",
+            "type": "fire",
+            "category": "physical",
+            "power": 180,
+            "accuracy": 95,
+            "powerpoints": 5
+        },
+        {
+            "name": "Veevee Volley",
+            "type": "normal",
+            "category": "physical",
+            "power": -1,
+            "accuracy": 101,
+            "powerpoints": 20
+        },
+        {
+            "name": "Vine Whip",
+            "type": "grass",
+            "category": "physical",
+            "power": 45,
+            "accuracy": 100,
+            "powerpoints": 25
+        },
+        {
+            "name": "Vise Grip",
+            "type": "normal",
+            "category": "physical",
+            "power": 55,
+            "accuracy": 100,
+            "powerpoints": 30
+        },
+        {
+            "name": "Vital Throw",
+            "type": "fighting",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 101,
+            "powerpoints": 10
+        },
+        {
+            "name": "Volt Tackle",
+            "type": "electric",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Wake-Up Slap",
+            "type": "fighting",
+            "category": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Waterfall",
+            "type": "water",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Wild Charge",
+            "type": "electric",
+            "category": "physical",
+            "power": 90,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Wing Attack",
+            "type": "flying",
+            "category": "physical",
+            "power": 60,
+            "accuracy": 100,
+            "powerpoints": 35
+        },
+        {
+            "name": "Wood Hammer",
+            "type": "grass",
+            "category": "physical",
+            "power": 120,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Wrap",
+            "type": "normal",
+            "category": "physical",
+            "power": 15,
+            "accuracy": 90,
+            "powerpoints": 20
+        },
+        {
+            "name": "X-Scissor",
+            "type": "bug",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 15
+        },
+        {
+            "name": "Zen Headbutt",
+            "type": "psychic",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 90,
+            "powerpoints": 15
+        },
+        {
+            "name": "Zing Zap",
+            "type": "electric",
+            "category": "physical",
+            "power": 80,
+            "accuracy": 100,
+            "powerpoints": 10
+        },
+        {
+            "name": "Zippy Zap",
+            "type": "electric",
+            "category": "physical",
+            "power": 50,
+            "accuracy": 100,
+            "powerpoints": 15
+        }
+    ]
+}
