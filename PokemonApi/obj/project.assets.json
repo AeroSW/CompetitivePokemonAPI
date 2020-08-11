@@ -331,9 +331,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AeroPC\\Documents\\Code\\PokemonApi\\PokemonApi\\PokemonApi.csproj",
-      "projectName": "PokemonApi",
-      "projectPath": "C:\\Users\\AeroPC\\Documents\\Code\\PokemonApi\\PokemonApi\\PokemonApi.csproj",
+      "projectUniqueName": "C:\\Users\\AeroPC\\Documents\\Code\\PokemonApi\\PokemonApi\\CompetitivePokemonApi.csproj",
+      "projectName": "CompetitivePokemonApi",
+      "projectPath": "C:\\Users\\AeroPC\\Documents\\Code\\PokemonApi\\PokemonApi\\CompetitivePokemonApi.csproj",
       "packagesPath": "C:\\Users\\AeroPC\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\AeroPC\\Documents\\Code\\PokemonApi\\PokemonApi\\obj\\",
       "projectStyle": "PackageReference",

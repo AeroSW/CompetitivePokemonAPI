@@ -74,7 +74,6 @@ namespace Logic.Models
         private static void Setup()
         {
             // Constant variables that will never change type.
-            //const string JsonPathTemplate = "./PokemonDetails/Types/{{type}}.json";
             string JsonPathTemplate = $"{Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)}/PokemonDetails/Types/[[type]].json";
 
             // Instantiate TypeChart

@@ -30,7 +30,6 @@ C:\Users\AeroPC\Documents\Code\PokemonApi\PokemonApi\obj\Debug\netcoreapp3.1\Pok
 C:\Users\AeroPC\Documents\Code\PokemonApi\PokemonApi\bin\Debug\netcoreapp3.1\PokemonDetails\Attacks\Generation08\Physical.json
 C:\Users\AeroPC\Documents\Code\PokemonApi\PokemonApi\bin\Debug\netcoreapp3.1\PokemonDetails\Attacks\Generation08\Special.json
 C:\Users\AeroPC\Documents\Code\PokemonApi\PokemonApi\bin\Debug\netcoreapp3.1\PokemonDetails\Attacks\Generation08\Status.json
-C:\Users\AeroPC\Documents\Code\PokemonApi\PokemonApi\bin\Debug\netcoreapp3.1\PokemonDetails\Pokemon\Generation08\GenerationOne.json
 C:\Users\AeroPC\Documents\Code\PokemonApi\PokemonApi\bin\Debug\netcoreapp3.1\PokemonDetails\Types\Bug.json
 C:\Users\AeroPC\Documents\Code\PokemonApi\PokemonApi\bin\Debug\netcoreapp3.1\PokemonDetails\Types\Dark.json
 C:\Users\AeroPC\Documents\Code\PokemonApi\PokemonApi\bin\Debug\netcoreapp3.1\PokemonDetails\Types\Dragon.json
@@ -49,3 +48,4 @@ C:\Users\AeroPC\Documents\Code\PokemonApi\PokemonApi\bin\Debug\netcoreapp3.1\Pok
 C:\Users\AeroPC\Documents\Code\PokemonApi\PokemonApi\bin\Debug\netcoreapp3.1\PokemonDetails\Types\Rock.json
 C:\Users\AeroPC\Documents\Code\PokemonApi\PokemonApi\bin\Debug\netcoreapp3.1\PokemonDetails\Types\Steel.json
 C:\Users\AeroPC\Documents\Code\PokemonApi\PokemonApi\bin\Debug\netcoreapp3.1\PokemonDetails\Types\Water.json
+C:\Users\AeroPC\Documents\Code\PokemonApi\PokemonApi\bin\Debug\netcoreapp3.1\PokemonDetails\Pokemon\Generation08\Pokemon.json

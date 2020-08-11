@@ -5,6 +5,7 @@ namespace Logic.Models
 {
     public class Pokemon
     {
+        ulong dexno { get; set; }
         string name { get; set; }
         List<PokeType> types { get; set; }
         PokeStats stats { get; set; }
