@@ -331,11 +331,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AeroPC\\Documents\\Code\\PokemonApi\\PokemonApi\\CompetitivePokemonApi.csproj",
+      "projectUniqueName": "C:\\Users\\AeroPC\\Documents\\Code\\CompetitivePokemonApi\\CompetitivePokemonApi\\CompetitivePokemonApi.csproj",
       "projectName": "CompetitivePokemonApi",
-      "projectPath": "C:\\Users\\AeroPC\\Documents\\Code\\PokemonApi\\PokemonApi\\CompetitivePokemonApi.csproj",
+      "projectPath": "C:\\Users\\AeroPC\\Documents\\Code\\CompetitivePokemonApi\\CompetitivePokemonApi\\CompetitivePokemonApi.csproj",
       "packagesPath": "C:\\Users\\AeroPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AeroPC\\Documents\\Code\\PokemonApi\\PokemonApi\\obj\\",
+      "outputPath": "C:\\Users\\AeroPC\\Documents\\Code\\CompetitivePokemonApi\\CompetitivePokemonApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -354,8 +354,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\AeroPC\\Documents\\Code\\PokemonApi\\Logic\\Logic.csproj": {
-              "projectPath": "C:\\Users\\AeroPC\\Documents\\Code\\PokemonApi\\Logic\\Logic.csproj"
+            "C:\\Users\\AeroPC\\Documents\\Code\\CompetitivePokemonApi\\Logic\\Logic.csproj": {
+              "projectPath": "C:\\Users\\AeroPC\\Documents\\Code\\CompetitivePokemonApi\\Logic\\Logic.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p1+SVoyzhC//UfUnwRPXiiCLnBdDadsVTTrruCwzdpgLtiI59wDq05Q6pmlGY5EhvLwAcUXGs/elX0Impnv1jA==",
+  "dgSpecHash": "XcMr78pgiLpKFrzy2KhIX5zk8S9DBGJL5d3oSeYUW2fghagx8nJHtUL+fkS5XigGqhrvRHTVZVFpc2HMp1OWaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AeroPC\\Documents\\Code\\PokemonApi\\PokemonApi\\CompetitivePokemonApi.csproj",
+  "projectFilePath": "C:\\Users\\AeroPC\\Documents\\Code\\CompetitivePokemonApi\\CompetitivePokemonApi\\CompetitivePokemonApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AeroPC\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\AeroPC\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
